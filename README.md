@@ -1,4 +1,4 @@
-# FactoryDesignPattren
+# Factory Design Pattren => Creational
 
 What is Factory Design Pattern: Gang of Four Definition 
 Define an interface for creating an object, but let subclasses decide which class to instantiate. The Factory method lets a class defer instantiation it uses to subclasses
